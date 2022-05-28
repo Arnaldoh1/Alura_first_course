@@ -1,2 +1,2 @@
-# Alura_first_course
+# HTML ALURA
 Site ficticio criado durante curso de Desenvolvimento Web
